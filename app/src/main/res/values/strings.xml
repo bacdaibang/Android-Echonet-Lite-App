@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ui_mqtt</string>
+    <string name="signin">Đăng nhập</string>
+    <string name="sign">Đăng kí</string>
+    <string name="input_userName">Nhập tài khoản</string>
+    <string name="input_passWord">Nhập mật khẩu</string>
+    <string name="username">Tài khoản: </string>>
+    <string name="password">Mật Khẩu: </string>
+    <string name="email">Email: </string>
+
+    <string name="register">Đăng kí</string>
+
+    <string name="phongkhach">Phòng Khách</string>
+    <string name="phongngu">Phòng Ngủ</string>
+    <string name="phongan">Phòng Ăn</string>
+    <string name="nhietdo">Nhiệt Độ</string>
+    <string name="doam">Độ Ẩm</string>
+    <string name="denthuong">Bóng Đèn Thường</string>
+    <string name="gas">Rò Rỉ Gas</string>
+
+    <string name="action_bar_toggle_open">Open</string>
+    <string name="action_bar_toggle_close">Close</string>
+</resources>
